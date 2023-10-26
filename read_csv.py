@@ -1,5 +1,6 @@
 import csv
 
+
 def read_csv_column(file_path, column_index):
     """
     Reads a column from a CSV file and returns its contents as a list.
